@@ -1,1 +1,3 @@
 About Us
+This is a new heading
+This is a new description
